@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="phone_app_name">"Telefone"</string>
+<string name="no_hfp">"Para completar a chamada, primeiro conecte o telefone ao veículo por Bluetooth."</string>
+<string name="bluetooth_unavailable">"Bluetooth indisponível."</string>
+<string name="bluetooth_disabled">"Para fazer ou receber chamadas, ative o Bluetooth."</string>
+<string name="bluetooth_unpaired">"Para fazer ou receber chamadas, emparelhe o telefone com o veículo."</string>
+<string name="connect_bluetooth_button_text">"Conectar ao Bluetooth"</string>
+<string name="emergency_button_text">"Emergência"</string>
+<string name="emergency_call_description">"Chamada de emergência"</string>
+<string name="error_contact_deleted">"Este contato pode ter sido excluído"</string>
+<string name="error_invalid_phone_number">"Não é possível discar este número. Verifique e tente novamente."</string>
+<string name="decline_call">"Recusar"</string>
+<string name="answer_call">"Responder"</string>
+<string name="call_back">"Retornar chamada"</string>
+<string name="audio_route_vehicle">"Bluetooth do veículo"</string>
+<string name="audio_route_phone_speaker">"Viva-voz"</string>
+<string name="audio_route_handset">"Fone"</string>
+<string name="dial_a_number">"Disque um número"</string>
+<string name="favorites_title">"Favoritos"</string>
+<string name="call_history_title">"Histórico de chamadas"</string>
+<string name="contacts_title">"Contatos"</string>
+<string name="dialpad_title">"Teclado de Discagem"</string>
+<string name="add_favorite_button">"Adicionar favorito"</string>
+<string name="favorites_empty">"Você ainda não adicionou favoritos"</string>
+<string name="search_title">"Pesquisar contatos"</string>
+<string name="search_hint">"Pesquisar contatos"</string>
+<string name="type_multiple">"Múltiplo"</string>
+<string name="select_number_dialog_title">"Escolher um número de telefone"</string>
+<string name="select_number_dialog_just_once_button">"Só uma vez"</string>
+<string name="select_number_dialog_always_button">"Sempre"</string>
+<string name="set_default_number">"Definir um número de telefone padrão"</string>
+<string name="primary_number_description">" <xliff:g id="label" example="Mobile">%1$s</xliff:g> \" - Padrão\" "</string>
+<string name="in_call_notification_channel_name">"Notificação de chamada recebida"</string>
+<string name="notification_incoming_call">"Chamada recebida"</string>
+<string name="missed_call_notification_channel_name">"Notificação de chamada perdida"</string>
+<string name="notification_missed_call">"Chamada perdida"</string>
+<string name="onhold_call_label">"Em espera  "</string>
+<string name="setting_title">"Configurações"</string>
+<string name="pref_start_page_title">"Definir página inicial"</string>
+<string name="sort_order_title">"Pedido de contato"</string>
+<string name="give_name_first_title">"Nome"</string>
+<string name="family_name_first_title">"Sobrenome"</string>
+</resources>
